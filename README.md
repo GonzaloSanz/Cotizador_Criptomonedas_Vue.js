@@ -1,1 +1,1 @@
-# Proyecto realizado con Vue.js, CSS y Vite
+Proyecto realizado con Vue.js y CSS3
